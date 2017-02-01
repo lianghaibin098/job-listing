@@ -33,6 +33,7 @@ gem 'font-awesome-rails'
 gem "bootstrap-sass"
 gem "simple_form"
 gem "devise"
+gem 'carrierwave'
 
 
 group :development, :test do
